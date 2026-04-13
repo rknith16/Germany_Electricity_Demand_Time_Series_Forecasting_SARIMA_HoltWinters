@@ -152,7 +152,7 @@ pip install pandas numpy matplotlib statsmodels scikit-learn
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/rknith16/germany-electricity-forecasting.git
+git clone https://github.com/rknith16/Germany_Electricity_Demand_Time_Series_Forecasting_SARIMA_HoltWinters.git
 cd germany-electricity-forecasting
 ```
 
@@ -160,7 +160,7 @@ cd germany-electricity-forecasting
 
 3. Open and run the notebook
 ```bash
-jupyter notebook notebooks/TS_assignment.ipynb
+jupyter notebook notebooks/TS_project.ipynb
 ```
 
 > **Note:** Update the file path in the data loading cell to match your local directory.
